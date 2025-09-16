@@ -9,7 +9,7 @@
   let nisitId: string = '';
   let password: string = '';
   let leaderboard: any[] = [];
-  let timeLeft: number = 10;
+  let timeLeft: number = 45;
   let disabled: boolean = false;
 
   // Random unique display names for IDs
